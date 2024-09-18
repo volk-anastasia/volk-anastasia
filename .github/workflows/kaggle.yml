@@ -31,7 +31,7 @@ jobs:
 
       - name: Commit and Push SVG files
         run: |
-          git config --local user.email "volkova-anastasia@list.ru"
+          git config --local user.email "${{ secrets.EMAIL }}"
           git config --local user.name "volk-anastasia"
           git add ./kaggle-badges/* ./kaggle-plates/*
           git commit -m "Add generated SVG files" || echo "No changes to commit"

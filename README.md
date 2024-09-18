@@ -17,8 +17,8 @@
 
 ## 📌 Repositories:
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=volk-anastasia&repo=Credit_Card_Fraud) ![](https://github-readme-stats.vercel.app/api/pin/?username=volk-anastasia&repo=Breast_Canser_Wisconsin)
-![](https://github-readme-stats.vercel.app/api/pin/?username=volk-anastasia&repo=German_Credit_Risk) ![](https://github-readme-stats.vercel.app/api/pin/?username=volk-anastasia&repo=Abalone_Age_Prediction)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=volk-anastasia&repo=Credit_Card_Fraud)](https://github.com/volk-anastasia/Credit_Card_Fraud) [![](https://github-readme-stats.vercel.app/api/pin/?username=volk-anastasia&repo=Breast_Canser_Wisconsin)](https://github.com/volk-anastasia/Breast_Canser_Wisconsin)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=volk-anastasia&repo=German_Credit_Risk)](https://github.com/volk-anastasia/German_Credit_Risk) [![](https://github-readme-stats.vercel.app/api/pin/?username=volk-anastasia&repo=Abalone_Age_Prediction)](https://github.com/volk-anastasia/Abalone_Age_Prediction)
 
 ## Visit my Kaggle: [![KaggleNotebooks](./kaggle-badges/NotebooksRank/flat-square-white.svg)](https://www.kaggle.com/volkanastasia)
 

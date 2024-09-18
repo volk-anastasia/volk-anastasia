@@ -16,7 +16,7 @@ Repoes:
 
 Visit my Kaggle:
 
-![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
-![](./kaggle-plates/Competitions/white.svg)
+
+![KAggleNotebooks](./kaggle-plates/Notebooks/white.svg)
 
 🌐 Socials:

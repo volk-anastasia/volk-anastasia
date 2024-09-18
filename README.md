@@ -6,7 +6,10 @@
 
 <hr style="border: none; height: 5px; background-color: #f796db">
 
-<p style="text-align: center; color: #F796DB; font-family: Segoe UI; font-size: 24px;">ML-begginer from St. Petersburg, Russia</p>
+<p align="center" style="color:#F796DB; font-size:20px;">
+<b>ML-begginer from St. Petersburg, Russia</b>
+</p>
+
 
 ## 🖥️ Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23eeeeee.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-%23488B9A.svg?style=for-the-badge&logo=Seaborn&logoColor=white) ![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-%23385c8b.svg?style=for-the-badge&logo=BeautifulSoup4&logoColor=black) ![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=HuggingFace&logoColor=black)
@@ -20,5 +23,3 @@
 ## Visit my Kaggle: [![KaggleNotebooks](./kaggle-badges/NotebooksRank/flat-square-white.svg)](https://www.kaggle.com/volkanastasia)
 
 ## 🌐 Contack me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/volk_anastasia)
-
-<p style="text-align: center; color: #F796DB; font-family: Segoe UI; font-size: 24px;">Word up</p>

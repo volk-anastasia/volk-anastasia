@@ -23,4 +23,4 @@
 
 ## Visit my Kaggle: [![KaggleNotebooks](./kaggle-badges/NotebooksRank/flat-square-white.svg)](https://www.kaggle.com/volkanastasia)
 
-## 🌐 Contack me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/volk_anastasia)
+## 🌐 Contact me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/volk_anastasia)
